@@ -99,7 +99,7 @@ Or, if this is the first time running the application and it creates tables auto
 ### 6️⃣ Run the Application
 
 ```bash
-python app.py
+python wsgi.py
 ```
 
 or
