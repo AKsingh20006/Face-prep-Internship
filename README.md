@@ -1,8 +1,12 @@
 Quick Basket Link
 https://quick-basket-r.onrender.com  *(Initial loading may take 20–40 seconds as the application is hosted on Render's Free Plan.)*
-Problem Statement :
+
+
+## Problem Statement :
 Small and medium-sized retail businesses often rely on manual record-keeping or spreadsheets to manage inventory, sales, customers, and suppliers. These traditional methods are time-consuming, prone to human error, and make it difficult to monitor stock levels, generate reports, and make informed business decisions. There is a need for an intelligent, centralized, and user-friendly system that automates retail operations while providing real-time insights into business performance.
-Solution:
+
+
+## Solution:
 QuickBasket AI is a cloud-based inventory and sales management system designed to simplify retail business operations through automation and intelligent analytics. The application provides a centralized platform where business owners can efficiently manage products, inventory, sales, customers, suppliers, and business reports.
 The system automates essential retail processes such as inventory tracking, billing, stock updates, and report generation, reducing manual effort and minimizing human errors. It also incorporates AI-powered business insights to analyze sales trends and support data-driven decision-making.
 By integrating secure user authentication, a responsive web interface, PostgreSQL database, and cloud deployment, QuickBasket AI offers a scalable, reliable, and user-friendly solution that helps retailers improve operational efficiency, maintain accurate records, and make informed business decisions.
